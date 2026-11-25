@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# After deployment, replace YOUR_LIVE_DOMAIN with the actual Firebase Hosting domain.
+# Sitemap: https://YOUR_LIVE_DOMAIN/sitemap.xml
